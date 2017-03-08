@@ -1,0 +1,16 @@
+1. Create a raw application with one module, but with a url
+2. Create a Mvc application - no view
+   - No View
+   - With View
+3. 
+  - Adding module location
+  - Adding Manifest Definition
+4. Tenancy
+  - Inject in Shell Blueprint (Default)
+  - Create a Sites folder etc
+5. Nancy time....
+  - What are the issues
+6. Only enable set features.
+  - WithSetFeatures
+  - Feature attribute
+7. 

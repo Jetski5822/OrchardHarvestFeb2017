@@ -1,0 +1,2 @@
+﻿Name: Harvest MVC Application
+Dependencies: Harvest.Module1.Demo1

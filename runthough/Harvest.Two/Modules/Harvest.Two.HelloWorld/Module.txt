@@ -1,0 +1,7 @@
+﻿Name: Harvest Two Mvc 2
+Features:
+ Harvest.Two.HelloWorld:
+  Category: Content
+ Harvest.Two.HelloWorld.Additional:
+  Category: Content
+  Dependencies: Harvest.Two.HelloWorld
